@@ -6,10 +6,6 @@
     font-size: 2.0rem;
     padding: 20px;
 }
-.contacto h2 span{
-    border-top: 2px;
-    object-fit: contain;
-}
 .formulario-contacto {
     max-width: 600px;
     margin: auto;

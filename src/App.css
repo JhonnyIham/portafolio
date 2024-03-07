@@ -42,7 +42,7 @@ body {
     width: 100%;
 }
 .App{
-    min-height: calc(79vh - 50px);
+    min-height: calc(70vh - 50px);
 }
 img{
     display: inline-block;
