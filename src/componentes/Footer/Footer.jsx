@@ -18,6 +18,9 @@ const Footer = () => {
         <Link to="/contacto">
           <ion-icon name="mail-open-outline"></ion-icon>
         </Link>
+        <a href="https://api.whatsapp.com/send?phone=957973671" target="_blank">
+          <ion-icon name="logo-whatsapp"></ion-icon>
+        </a>
         <a className='btn' href="https://drive.google.com/file/d/1sbt0-Ch02fdXLcNOTQddCmyIguP_UkBM/view?usp=sharings" target="_blank">
         CV
         </a>
