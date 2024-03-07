@@ -38,7 +38,7 @@ body {
     color: var(--color-text);
     background-color: var(--background-color);
     transition: color 0.3s ease, background-color 0.3s ease;
-    margin-top: 150px;
+    margin-top: 82px;
     width: 100%;
 }
 .App{
@@ -65,4 +65,9 @@ ul{
 a{
     text-decoration: none;
     color: inherit;
+}
+@media (max-width: 550px) {
+    body {
+        margin-top: 150px;
+    }
 }

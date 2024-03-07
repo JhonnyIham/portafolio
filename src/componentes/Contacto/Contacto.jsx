@@ -21,7 +21,7 @@ const Contacto = () => {
 
   return (
     <section className="contacto">
-      <h2>Contacto</h2>
+      <h2>Contacto <span><ion-icon name="mail-open-outline"></ion-icon></span></h2>
       <form className="formulario-contacto" onSubmit={enviarEmail}>
           <input type="text" name="user_name" placeholder="Tu Nombre" required />
           <input type="email" name="user_email" placeholder="Tu Email" required />

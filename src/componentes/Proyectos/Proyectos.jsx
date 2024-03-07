@@ -44,7 +44,7 @@ const Proyectos = () => {
       description:
         "Aplicación Web que nos permite ver la información de nuestros pokemons favoritos, asi como verlos por tipo y nombre",
       techStack: ["HTML", "CSS","ViteJs",  "ReactJS", "Axios", "API", "React Hook Form", "Redux"],
-      link: "entregable5-ashy.vercel.app",
+      link: "https://entregable5-ashy.vercel.app/",
       github: "https://github.com/JhonnyIham/entregable5",
     },
   ];

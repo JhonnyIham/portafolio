@@ -3,6 +3,9 @@
     margin: 0 auto;
     padding: 20px;
 }
+.sobreMi h2{
+    font-size: 2.0rem;
+}
 .sobreMi-biografia, .sobreMi-educacion {
     margin-bottom: 40px;
 }
