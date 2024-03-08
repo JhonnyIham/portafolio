@@ -21,7 +21,7 @@ const Footer = () => {
         <a href="https://api.whatsapp.com/send?phone=957973671" target="_blank">
           <ion-icon name="logo-whatsapp"></ion-icon>
         </a>
-        <a className='btn' href="https://drive.google.com/file/d/1B9K5MnvR4Pqf63GQd3EOo7RQTMwG7isu/view?usp=sharing" target="_blank">
+        <a className='btn' href="https://drive.google.com/file/d/1-cFTg6zgBN3RkMTH479yoQCbbKrBGabU/view?usp=sharing" target="_blank">
         CV
         </a>
       </div>
