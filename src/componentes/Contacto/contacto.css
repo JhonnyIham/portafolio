@@ -1,6 +1,11 @@
 .contacto {
     padding: 2rem;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 62vh;
 }
 .contacto h2{
     font-size: 2.0rem;
@@ -8,7 +13,6 @@
 }
 .formulario-contacto {
     max-width: 600px;
-    margin: auto;
 }
 
 .formulario-contacto input,

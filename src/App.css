@@ -25,7 +25,6 @@
     --background-icon:var(--background-icon-light);
     --color-text-h2:var(--color-text-h2-light);
     --background-project: var(--background-proyect-light);
-
 }
 .dark {
     --color-text: var(--color-text-dark);
