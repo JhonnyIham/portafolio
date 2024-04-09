@@ -26,7 +26,9 @@ const SobreMi = () => {
       <article className="sobreMi-biografia">
         <h2 className="sobreMi-titulo">Sobre mí</h2>
         <p className="sobreMi-texto">Como estudiante de noveno semestre de Ingeniería de Sistemas en la Universidad Nacional del Centro del Perú, mi pasión por la programación y el desarrollo de software se ha convertido en el núcleo de mi perfil profesional. A los 31 años, mi enfoque en el trabajo en equipo, junto con una ética de trabajo marcada por la responsabilidad y puntualidad, define mi compromiso con la excelencia.</p>
+        <br></br>
         <p className="sobreMi-texto">Viviendo en Huancayo, Perú, la búsqueda constante de retos y el afán por mantenerme al día con las últimas tendencias tecnológicas han sido mis compañeros constantes en este viaje de aprendizaje. Mi objetivo es aplicar mis conocimientos adquiridos en proyectos innovadores, ofreciendo soluciones prácticas y creativas que aporten valor tangible.</p>
+        <br></br>
         <p className="sobreMi-texto">Mi filosofía profesional se centra en la adaptabilidad y el autodesarrollo, competencias esenciales en la era digital, que me permiten navegar con confianza en el dinámico campo de la informática. Con un compromiso incansable hacia el mejoramiento continuo y una actitud proactiva, busco oportunidades que no solo pongan a prueba mis habilidades sino que también contribuyan significativamente a los objetivos de la organización.</p>
       </article>
       <article className="sobreMi-educacion">

@@ -66,8 +66,8 @@ const Conocimientos = () => {
       name: "Desarrollo de Aplicaciones Web con React",
       institution: "Academlo | School of Technology and Computer Science",
       date: "2024",
-      icon: "path/to/aws-certificado-icon.svg",
-      enlace: ''
+      icon: "../assets/images/certificados/react.png",
+      enlace: 'https://certiwise.co/verify/4936'
     },
   ]
 
