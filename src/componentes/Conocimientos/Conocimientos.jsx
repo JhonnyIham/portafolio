@@ -69,6 +69,19 @@ const Conocimientos = () => {
       icon: "../assets/images/certificados/react.png",
       enlace: 'https://certiwise.co/verify/4936'
     },
+    {
+      name: "Back-End Development with Node.js",
+      institution: "Academlo | School of Technology and Computer Science",
+      date: "2024",
+      icon: "../assets/images/certificados/Back-End Development with NodeJS.png",
+      enlace: 'https://certiwise.co/verify/5439'
+    },{
+      name: "Full Stack Web Development",
+      institution: "Academlo | School of Technology and Computer Science",
+      date: "2024",
+      icon: "../assets/images/certificados/Full Stack Web.png",
+      enlace: 'https://certiwise.co/verify/5437'
+    },
   ]
 
   return (
